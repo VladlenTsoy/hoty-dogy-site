@@ -1,0 +1,35 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.container .title {
+    font-family: "Bogart Alt Bold", sans-serif;
+    line-height: 100%;
+    font-size: 2em;
+}
+
+.container h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.container h3 {
+    font-size: 1.2em;
+    color: var(--primary-color);
+}
+
+.container p, .container ul, .container li {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.container ul {
+    padding-left: 20px;
+    list-style: disc;
+}
+
+.container li {
+    margin-bottom: 5px;
+}

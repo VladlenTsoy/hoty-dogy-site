@@ -1,0 +1,138 @@
+/* Подключение шрифтов из папки bogart */
+@font-face {
+    font-family: 'Bogart Alt Black';
+    src: url('/fonts/bogart/Bogart-Alt-Black-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt Bold';
+    src: url('/fonts/bogart/Bogart-Alt-Bold-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt ExtraBold';
+    src: url('/fonts/bogart/Bogart-Alt-Extrabold-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt ExtraLight';
+    src: url('/fonts/bogart/Bogart-Alt-Extralight-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt Light';
+    src: url('/fonts/bogart/Bogart-Alt-Light-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt Medium';
+    src: url('/fonts/bogart/Bogart-Alt-Medium-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt Regular';
+    src: url('/fonts/bogart/Bogart-Alt-Regular-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt SemiBold';
+    src: url('/fonts/bogart/Bogart-Alt-Semibold-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart Alt Thin';
+    src: url('/fonts/bogart/Bogart-Alt-Thin-trial.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Bogart SemiBold';
+    src: url('/fonts/bogart/Bogart-Semibold.ttf') format('truetype');
+  }
+  
+  /* Подключение шрифтов из папки mulish */
+  @font-face {
+    font-family: 'Mulish Black';
+    src: url('/fonts/mulish/Mulish-Black.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Black Italic';
+    src: url('/fonts/mulish/Mulish-BlackItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Bold';
+    src: url('/fonts/mulish/Mulish-Bold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Bold Italic';
+    src: url('/fonts/mulish/Mulish-BoldItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish ExtraBold';
+    src: url('/fonts/mulish/Mulish-ExtraBold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish ExtraBold Italic';
+    src: url('/fonts/mulish/Mulish-ExtraBoldItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish ExtraLight';
+    src: url('/fonts/mulish/Mulish-ExtraLight.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish ExtraLight Italic';
+    src: url('/fonts/mulish/Mulish-ExtraLightItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Italic';
+    src: url('/fonts/mulish/Mulish-Italic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Light';
+    src: url('/fonts/mulish/Mulish-Light.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Light Italic';
+    src: url('/fonts/mulish/Mulish-LightItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Medium';
+    src: url('/fonts/mulish/Mulish-Medium.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Medium Italic';
+    src: url('/fonts/mulish/Mulish-MediumItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish Regular';
+    src: url('/fonts/mulish/Mulish-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish SemiBold';
+    src: url('/fonts/mulish/Mulish-SemiBold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Mulish SemiBold Italic';
+    src: url('/fonts/mulish/Mulish-SemiBoldItalic.ttf') format('truetype');
+  }
+  
+  /* Подключение Space Mono */
+  @font-face {
+    font-family: 'Space Mono Regular';
+    src: url('/fonts/SpaceMono-Regular.ttf') format('truetype');
+  }
+  
