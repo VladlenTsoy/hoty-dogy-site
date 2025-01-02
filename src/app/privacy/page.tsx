@@ -1,6 +1,13 @@
 import styles from "./page.module.css"
 
-const page = () => {
+export async function generateMetadata() {
+    return {
+        title: "Политика конфиденциальности | Hoty Dogy",
+        description: "Узнайте, как приложение Hoty Dogy собирает, использует и защищает ваши данные. Мы заботимся о конфиденциальности наших пользователей и предоставляем полную информацию о правах и защите данных.",
+    }
+}
+
+const Page = () => {
     return (
         <div className={styles.container}>
             <h1 className={styles.title}>Политика конфиденциальности</h1>
@@ -98,4 +105,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
